@@ -1,0 +1,1001 @@
+{
+  "Abu Dhabi": {
+    "city": "Abu Dhabi",
+    "state": "Abu Dhabi Emirate",
+    "ISO3166-2-lvl4": "AE-AZ",
+    "country": "United Arab Emirates",
+    "country_code": "ae"
+  },
+  "Adelaide": {
+    "city": "Adelaide",
+    "state": "South Australia",
+    "ISO3166-2-lvl4": "AU-SA",
+    "country": "Australia",
+    "country_code": "au"
+  },
+  "Almaty": {
+    "city": "Almaty",
+    "ISO3166-2-lvl4": "KZ-75",
+    "country": "Kazakhstan",
+    "country_code": "kz"
+  },
+  "Amman": {
+    "city": "Amman",
+    "county": "Amman Sub-District",
+    "state_district": "Amman Qasabah District",
+    "state": "Amman",
+    "ISO3166-2-lvl4": "JO-AM",
+    "postcode": "11110",
+    "country": "Jordan",
+    "country_code": "jo"
+  },
+  "Amsterdam": {
+    "city": "Amsterdam",
+    "municipality": "Amsterdam",
+    "state": "North Holland",
+    "ISO3166-2-lvl4": "NL-NH",
+    "country": "Netherlands",
+    "country_code": "nl"
+  },
+  "Atlanta": {
+    "city": "Atlanta",
+    "county": "Fulton County",
+    "state": "Georgia",
+    "ISO3166-2-lvl4": "US-GA",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Auckland": {
+    "city": "Auckland",
+    "state": "Auckland",
+    "ISO3166-2-lvl4": "NZ-AUK",
+    "postcode": "1010",
+    "country": "New Zealand",
+    "country_code": "nz"
+  },
+  "Baku": {
+    "city": "Baku City",
+    "ISO3166-2-lvl5": "AZ-BA",
+    "country": "Azerbaijan",
+    "country_code": "az"
+  },
+  "Bangkok": {
+    "city": "Bangkok",
+    "ISO3166-2-lvl4": "TH-10",
+    "country": "Thailand",
+    "country_code": "th"
+  },
+  "Barcelona": {
+    "city": "Barcelona",
+    "county": "Barcelonès",
+    "province": "Barcelona",
+    "ISO3166-2-lvl6": "ES-B",
+    "state": "Catalonia",
+    "ISO3166-2-lvl4": "ES-CT",
+    "country": "Spain",
+    "country_code": "es"
+  },
+  "Beijing": {
+    "city": "Beijing",
+    "ISO3166-2-lvl4": "CN-BJ",
+    "country": "China",
+    "country_code": "cn"
+  },
+  "Belgrade": {
+    "city": "Belgrade",
+    "county": "City of Belgrade",
+    "ISO3166-2-lvl6": "RS-00",
+    "province": "Central Serbia",
+    "country": "Serbia",
+    "country_code": "rs"
+  },
+  "Belo Horizonte": {
+    "municipality": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "ISO3166-2-lvl4": "BR-MG",
+    "region": "Southeast Region",
+    "country": "Brazil",
+    "country_code": "br"
+  },
+  "Berlin": {
+    "city": "Berlin",
+    "ISO3166-2-lvl4": "DE-BE",
+    "country": "Germany",
+    "country_code": "de"
+  },
+  "Bogota": {
+    "city": "Bogota",
+    "state": "Bogota, Capital District",
+    "ISO3166-2-lvl4": "CO-DC",
+    "region": "RAP (Especial) Central",
+    "country": "Colombia",
+    "country_code": "co"
+  },
+  "Boston": {
+    "city": "Boston",
+    "county": "Suffolk County",
+    "state": "Massachusetts",
+    "ISO3166-2-lvl4": "US-MA",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Bratislava": {
+    "city": "Bratislava",
+    "region": "Region of Bratislava",
+    "ISO3166-2-lvl4": "SK-BL",
+    "statistical_region": "Bratislavský kraj",
+    "country": "Slovakia",
+    "country_code": "sk"
+  },
+  "Brisbane": {
+    "city": "Brisbane",
+    "state": "Queensland",
+    "ISO3166-2-lvl4": "AU-QLD",
+    "country": "Australia",
+    "country_code": "au"
+  },
+  "Brussels": {
+    "city": "Brussels",
+    "county": "Brussels-Capital",
+    "region": "Brussels-Capital",
+    "ISO3166-2-lvl4": "BE-BRU",
+    "country": "Belgium",
+    "country_code": "be"
+  },
+  "Bucharest": {
+    "city": "Bucharest",
+    "ISO3166-2-lvl4": "RO-B",
+    "country": "Romania",
+    "country_code": "ro"
+  },
+  "Budapest": {
+    "region": "Budapest",
+    "ISO3166-2-lvl6": "HU-BU",
+    "country": "Hungary",
+    "country_code": "hu"
+  },
+  "Buenos Aires": {
+    "city": "Buenos Aires",
+    "state_district": "Comuna 1",
+    "state": "Autonomous City of Buenos Aires",
+    "ISO3166-2-lvl4": "AR-C",
+    "country": "Argentina",
+    "country_code": "ar"
+  },
+  "Cairo": {
+    "city": "Cairo",
+    "state": "Cairo",
+    "ISO3166-2-lvl4": "EG-C",
+    "country": "Egypt",
+    "country_code": "eg"
+  },
+  "Calgary": {
+    "city": "Calgary",
+    "state": "Alberta",
+    "ISO3166-2-lvl4": "CA-AB",
+    "country": "Canada",
+    "country_code": "ca"
+  },
+  "Cape Town": {
+    "city": "Cape Town",
+    "county": "City of Cape Town",
+    "state": "Western Cape",
+    "ISO3166-2-lvl4": "ZA-WC",
+    "postcode": "8001",
+    "country": "South Africa",
+    "country_code": "za"
+  },
+  "Caracas": {
+    "city": "Caracas",
+    "municipality": "Parroquia Catedral",
+    "county": "Municipio Libertador",
+    "state_district": "Caracas Metropolitan District",
+    "state": "Capital District",
+    "ISO3166-2-lvl4": "VE-A",
+    "country": "Venezuela",
+    "country_code": "ve"
+  },
+  "Casablanca": {
+    "city": "Casablanca",
+    "county": "Pachalik de Casablanca باشوية الدار البيضاء",
+    "state_district": "Prefecture of Casablanca",
+    "ISO3166-2-lvl5": "MA-CAS",
+    "state": "Casablanca-Settat",
+    "ISO3166-2-lvl4": "MA-06",
+    "country": "Morocco",
+    "country_code": "ma"
+  },
+  "Chicago": {
+    "city": "Chicago",
+    "municipality": "South Chicago Township",
+    "county": "Cook County",
+    "state": "Illinois",
+    "ISO3166-2-lvl4": "US-IL",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "county": "Cuyahoga County",
+    "state": "Ohio",
+    "ISO3166-2-lvl4": "US-OH",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Colombo": {
+    "city": "Colombo",
+    "state_district": "Colombo District",
+    "ISO3166-2-lvl5": "LK-11",
+    "state": "Western Province",
+    "ISO3166-2-lvl4": "LK-1",
+    "country": "Sri Lanka",
+    "country_code": "lk"
+  },
+  "Copenhagen": {
+    "city": "Copenhagen",
+    "municipality": "Copenhagen Municipality",
+    "state": "Capital Region of Denmark",
+    "ISO3166-2-lvl4": "DK-84",
+    "postcode": "1357",
+    "country": "Denmark",
+    "country_code": "dk"
+  },
+  "Denver": {
+    "city": "Denver",
+    "state": "Colorado",
+    "ISO3166-2-lvl4": "US-CO",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Detroit": {
+    "city": "Detroit",
+    "county": "Wayne County",
+    "state": "Michigan",
+    "ISO3166-2-lvl4": "US-MI",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Dhaka": {
+    "city": "Dhaka",
+    "county": "Dhaka Metropolitan",
+    "state_district": "Dhaka District",
+    "ISO3166-2-lvl5": "BD-13",
+    "state": "Dhaka Division",
+    "ISO3166-2-lvl4": "BD-C",
+    "postcode": "1215",
+    "country": "Bangladesh",
+    "country_code": "bd"
+  },
+  "Doha": {
+    "state": "Doha",
+    "ISO3166-2-lvl4": "QA-DA",
+    "country": "Qatar",
+    "country_code": "qa"
+  },
+  "Dubai": {
+    "administrative": "Dubai Emirate",
+    "state": "Dubai",
+    "ISO3166-2-lvl4": "AE-DU",
+    "country": "United Arab Emirates",
+    "country_code": "ae"
+  },
+  "Dublin": {
+    "city": "Dublin",
+    "county": "County Dublin",
+    "ISO3166-2-lvl6": "IE-D",
+    "region": "Leinster",
+    "ISO3166-2-lvl5": "IE-L",
+    "country": "Ireland",
+    "country_code": "ie"
+  },
+  "Dusseldorf": {
+    "city": "Dusseldorf",
+    "state": "North Rhine-Westphalia",
+    "ISO3166-2-lvl4": "DE-NW",
+    "country": "Germany",
+    "country_code": "de"
+  },
+  "Frankfurt": {
+    "city": "Frankfurt",
+    "state": "Hesse",
+    "ISO3166-2-lvl4": "DE-HE",
+    "country": "Germany",
+    "country_code": "de"
+  },
+  "Gaborone": {
+    "city": "Gaborone",
+    "ISO3166-2-lvl4": "BW-GA",
+    "country": "Botswana",
+    "country_code": "bw"
+  },
+  "Geneva": {
+    "city": "Geneva",
+    "state": "Geneva",
+    "ISO3166-2-lvl4": "CH-GE",
+    "country": "Switzerland",
+    "country_code": "ch"
+  },
+  "Glasgow": {
+    "city": "Glasgow",
+    "county": "Glasgow City",
+    "ISO3166-2-lvl6": "GB-GLG",
+    "state": "Scotland",
+    "ISO3166-2-lvl4": "GB-SCT",
+    "postcode": "G2 1AL",
+    "country": "United Kingdom",
+    "country_code": "gb"
+  },
+  "Guadalajara": {
+    "city": "Guadalajara",
+    "county": "Guadalajara",
+    "state_district": "Región Centro",
+    "state": "Jalisco",
+    "ISO3166-2-lvl4": "MX-JAL",
+    "postcode": "44450",
+    "country": "Mexico",
+    "country_code": "mx"
+  },
+  "Guangzhou": {
+    "city": "Guangzhou City",
+    "state": "Guangdong",
+    "ISO3166-2-lvl4": "CN-GD",
+    "country": "China",
+    "country_code": "cn"
+  },
+  "Guatemala City": {
+    "city": "Guatemala City",
+    "state": "Guatemala Department",
+    "ISO3166-2-lvl4": "GT-01",
+    "country": "Guatemala",
+    "country_code": "gt"
+  },
+  "Hamburg": {
+    "city": "Hamburg",
+    "ISO3166-2-lvl4": "DE-HH",
+    "country": "Germany",
+    "country_code": "de"
+  },
+  "Hanoi": {
+    "city": "Hà Nội",
+    "ISO3166-2-lvl4": "VN-HN",
+    "country": "Vietnam",
+    "country_code": "vn"
+  },
+  "Helsinki": {
+    "city": "Helsinki",
+    "municipality": "Helsinki sub-region",
+    "state": "Uusimaa",
+    "ISO3166-2-lvl4": "FI-18",
+    "region": "Mainland Finland",
+    "country": "Finland",
+    "country_code": "fi"
+  },
+  "Ho Chi Minh City": {
+    "city": "Ho Chi Minh City",
+    "ISO3166-2-lvl4": "VN-SG",
+    "country": "Vietnam",
+    "country_code": "vn"
+  },
+  "Hong Kong": {
+    "city": "Hong Kong",
+    "region": "Hong Kong",
+    "ISO3166-2-lvl3": "CN-HK",
+    "country": "China",
+    "country_code": "cn"
+  },
+  "Honolulu": {
+    "city": "Honolulu",
+    "county": "Honolulu County",
+    "state": "Hawaii",
+    "ISO3166-2-lvl4": "US-HI",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Houston": {
+    "city": "Houston",
+    "county": "Harris County",
+    "state": "Texas",
+    "ISO3166-2-lvl4": "US-TX",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Istanbul": {
+    "city": "Istanbul",
+    "town": "Fatih",
+    "province": "Istanbul",
+    "ISO3166-2-lvl4": "TR-34",
+    "region": "Marmara Region",
+    "postcode": "34122",
+    "country": "Turkey",
+    "country_code": "tr"
+  },
+  "Jakarta": {
+    "city": "Special Capital Region of Jakarta",
+    "ISO3166-2-lvl4": "ID-JK",
+    "region": "Java",
+    "ISO3166-2-lvl3": "ID-JW",
+    "country": "Indonesia",
+    "country_code": "id"
+  },
+  "Johannesburg": {
+    "city": "Johannesburg",
+    "municipality": "City of Johannesburg Metropolitan Municipality",
+    "county": "City of Johannesburg Metropolitan Municipality",
+    "state": "Gauteng",
+    "ISO3166-2-lvl4": "ZA-GP",
+    "postcode": "2001",
+    "country": "South Africa",
+    "country_code": "za"
+  },
+  "Karachi": {
+    "city": "Karachi Division",
+    "state": "Sindh",
+    "ISO3166-2-lvl4": "PK-SD",
+    "country": "Pakistan",
+    "country_code": "pk"
+  },
+  "Kathmandu": {
+    "city": "Kathmandu Metropolitan City",
+    "county": "Kathmandu",
+    "state": "Bagamati Province",
+    "ISO3166-2-lvl4": "NP-P3",
+    "country": "Nepal",
+    "country_code": "np"
+  },
+  "Kiev": {
+    "city": "Kyiv",
+    "ISO3166-2-lvl4": "UA-30",
+    "country": "Ukraine",
+    "country_code": "ua"
+  },
+  "Kuala Lumpur": {
+    "state": "Kuala Lumpur",
+    "ISO3166-2-lvl4": "MY-14",
+    "country": "Malaysia",
+    "country_code": "my"
+  },
+  "Kuwait City": {
+    "city": "Kuwait City",
+    "county": "Qibla",
+    "state": "Capital Governorate",
+    "ISO3166-2-lvl4": "KW-KU",
+    "postcode": "15005",
+    "country": "Kuwait",
+    "country_code": "kw"
+  },
+  "Kyoto": {
+    "city": "Kyoto",
+    "province": "Kyoto Prefecture",
+    "ISO3166-2-lvl4": "JP-26",
+    "country": "Japan",
+    "country_code": "jp"
+  },
+  "Lagos": {
+    "city": "Lagos",
+    "county": "Lagos Island",
+    "state": "Lagos State",
+    "ISO3166-2-lvl4": "NG-LA",
+    "postcode": "100242",
+    "country": "Nigeria",
+    "country_code": "ng"
+  },
+  "Lima": {
+    "city": "Lima",
+    "region": "Province of Lima",
+    "ISO3166-2-lvl6": "PE-LMA",
+    "state_district": "Lima Metropolitan Area",
+    "state": "Lima",
+    "ISO3166-2-lvl4": "PE-LIM",
+    "country": "Peru",
+    "country_code": "pe"
+  },
+  "Lisbon": {
+    "city": "Lisbon",
+    "county": "Lisbon",
+    "ISO3166-2-lvl6": "PT-11",
+    "country": "Portugal",
+    "country_code": "pt"
+  },
+  "London": {
+    "city": "Greater London",
+    "state": "England",
+    "ISO3166-2-lvl4": "GB-ENG",
+    "country": "United Kingdom",
+    "country_code": "gb"
+  },
+  "Los Angeles": {
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "state": "California",
+    "ISO3166-2-lvl4": "US-CA",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Luxembourg": {
+    "country": "Luxembourg",
+    "country_code": "lu"
+  },
+  "Lyon": {
+    "city": "Lyon",
+    "municipality": "Lyon",
+    "county": "Métropole de Lyon",
+    "ISO3166-2-lvl6": "FR-69M",
+    "state_district": "Rhône",
+    "state": "Auvergne-Rhône-Alpes",
+    "ISO3166-2-lvl4": "FR-ARA",
+    "region": "Metropolitan France",
+    "country": "France",
+    "country_code": "fr"
+  },
+  "Madrid": {
+    "city": "Madrid",
+    "state": "Community of Madrid",
+    "ISO3166-2-lvl4": "ES-MD",
+    "country": "Spain",
+    "country_code": "es"
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "ISO3166-2-lvl8": "GB-MAN",
+    "state_district": "Greater Manchester",
+    "state": "England",
+    "ISO3166-2-lvl4": "GB-ENG",
+    "country": "United Kingdom",
+    "country_code": "gb"
+  },
+  "Manila": {
+    "city": "Manila",
+    "state_district": "Capital District",
+    "region": "Metro Manila",
+    "ISO3166-2-lvl3": "PH-00",
+    "country": "Philippines",
+    "country_code": "ph"
+  },
+  "Melbourne": {
+    "city": "Melbourne",
+    "state": "Victoria",
+    "ISO3166-2-lvl4": "AU-VIC",
+    "country": "Australia",
+    "country_code": "au"
+  },
+  "Mexico City": {
+    "state": "Mexico City",
+    "ISO3166-2-lvl4": "MX-CMX",
+    "country": "Mexico",
+    "country_code": "mx"
+  },
+  "Miami": {
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "state": "Florida",
+    "ISO3166-2-lvl4": "US-FL",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Milan": {
+    "city": "Milan",
+    "municipality": "Rodano",
+    "county": "Milan",
+    "ISO3166-2-lvl6": "IT-MI",
+    "state": "Lombardy",
+    "ISO3166-2-lvl4": "IT-25",
+    "country": "Italy",
+    "country_code": "it"
+  },
+  "Minneapolis": {
+    "city": "Minneapolis",
+    "county": "Hennepin County",
+    "state": "Minnesota",
+    "ISO3166-2-lvl4": "US-MN",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Montevideo": {
+    "city": "Montevideo",
+    "state": "Montevideo",
+    "ISO3166-2-lvl4": "UY-MO",
+    "country": "Uruguay",
+    "country_code": "uy"
+  },
+  "Montreal": {
+    "city": "Montreal",
+    "county": "Urban agglomeration of Montreal",
+    "state_district": "Montreal (administrative region)",
+    "state": "Quebec",
+    "ISO3166-2-lvl4": "CA-QC",
+    "country": "Canada",
+    "country_code": "ca"
+  },
+  "Moscow": {
+    "state": "Moscow",
+    "ISO3166-2-lvl4": "RU-MOW",
+    "region": "Central Federal District",
+    "country": "Russia",
+    "country_code": "ru"
+  },
+  "Mumbai": {
+    "city": "Mumbai",
+    "state_district": "Mumbai Suburban District",
+    "state": "Maharashtra",
+    "ISO3166-2-lvl4": "IN-MH",
+    "postcode": "400051",
+    "country": "India",
+    "country_code": "in"
+  },
+  "Munich": {
+    "city": "Munich",
+    "state": "Bavaria",
+    "ISO3166-2-lvl4": "DE-BY",
+    "country": "Germany",
+    "country_code": "de"
+  },
+  "Muscat": {
+    "city": "Muscat",
+    "province": "Muscat Province",
+    "state": "Muscat Governorate",
+    "ISO3166-2-lvl4": "OM-MA",
+    "country": "Oman",
+    "country_code": "om"
+  },
+  "Nairobi": {
+    "city": "Nairobi",
+    "state": "Nairobi County",
+    "ISO3166-2-lvl4": "KE-30",
+    "country": "Kenya",
+    "country_code": "ke"
+  },
+  "New York": {
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Oslo": {
+    "county": "Oslo",
+    "ISO3166-2-lvl4": "NO-03",
+    "country": "Norway",
+    "country_code": "no"
+  },
+  "Paris": {
+    "suburb": "Paris",
+    "city_district": "Paris",
+    "city": "Paris",
+    "ISO3166-2-lvl6": "FR-75C",
+    "state": "Ile-de-France",
+    "ISO3166-2-lvl4": "FR-IDF",
+    "region": "Metropolitan France",
+    "country": "France",
+    "country_code": "fr"
+  },
+  "Perth": {
+    "city": "Perth",
+    "state": "Western Australia",
+    "ISO3166-2-lvl4": "AU-WA",
+    "postcode": "6000",
+    "country": "Australia",
+    "country_code": "au"
+  },
+  "Philadelphia": {
+    "city": "Philadelphia",
+    "county": "Philadelphia County",
+    "state": "Pennsylvania",
+    "ISO3166-2-lvl4": "US-PA",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Pittsburgh": {
+    "city": "Pittsburgh",
+    "county": "Allegheny County",
+    "state": "Pennsylvania",
+    "ISO3166-2-lvl4": "US-PA",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Portland": {
+    "city": "Portland",
+    "county": "Multnomah County",
+    "state": "Oregon",
+    "ISO3166-2-lvl4": "US-OR",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Prague": {
+    "city": "Prague",
+    "ISO3166-2-lvl4": "CZ-10",
+    "region": "Prague",
+    "country": "Czechia",
+    "country_code": "cz"
+  },
+  "Pretoria": {
+    "city": "Pretoria",
+    "county": "City of Tshwane Metropolitan Municipality",
+    "state": "Gauteng",
+    "ISO3166-2-lvl4": "ZA-GP",
+    "postcode": "0142",
+    "country": "South Africa",
+    "country_code": "za"
+  },
+  "Qingdao": {
+    "city": "Qingdao",
+    "state": "Shandong",
+    "ISO3166-2-lvl4": "CN-SD",
+    "postcode": "266000",
+    "country": "China",
+    "country_code": "cn"
+  },
+  "Quito": {
+    "city": "Quito",
+    "county": "Quito Canton",
+    "plot": "Pichincha",
+    "ISO3166-2-lvl4": "EC-P",
+    "postcode": "170130",
+    "country": "Ecuador",
+    "country_code": "ec"
+  },
+  "Reykjavik": {
+    "city": "Reykjavik",
+    "ISO3166-2-lvl6": "IS-RKV",
+    "state_district": "Capital Region",
+    "ISO3166-2-lvl5": "IS-1",
+    "country": "Iceland",
+    "country_code": "is"
+  },
+  "Rio De Janeiro": {
+    "municipality": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "ISO3166-2-lvl4": "BR-RJ",
+    "region": "Southeast Region",
+    "country": "Brazil",
+    "country_code": "br"
+  },
+  "Rio de Janeiro": {
+    "municipality": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "ISO3166-2-lvl4": "BR-RJ",
+    "region": "Southeast Region",
+    "country": "Brazil",
+    "country_code": "br"
+  },
+  "Riyadh": {
+    "city": "Riyadh",
+    "province": "Riyadh governorate",
+    "state": "Riyadh Region",
+    "ISO3166-2-lvl4": "SA-01",
+    "postcode": "12613",
+    "country": "Saudi Arabia",
+    "country_code": "sa"
+  },
+  "Rome": {
+    "city": "Rome",
+    "county": "Roma Capitale",
+    "ISO3166-2-lvl6": "IT-RM",
+    "state": "Lazio",
+    "ISO3166-2-lvl4": "IT-62",
+    "country": "Italy",
+    "country_code": "it"
+  },
+  "San Francisco": {
+    "city": "San Francisco",
+    "state": "California",
+    "ISO3166-2-lvl4": "US-CA",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "San Jose": {
+    "city": "San Jose",
+    "county": "Santa Clara County",
+    "state": "California",
+    "ISO3166-2-lvl4": "US-CA",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "San Juan": {
+    "county": "San Juan",
+    "state": "Puerto Rico",
+    "ISO3166-2-lvl4": "US-PR",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Sao Paulo": {
+    "municipality": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Southeast Region",
+    "country": "Brazil",
+    "country_code": "br"
+  },
+  "Seattle": {
+    "city": "Seattle",
+    "county": "King County",
+    "state": "Washington",
+    "ISO3166-2-lvl4": "US-WA",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Seoul": {
+    "city": "Seoul",
+    "ISO3166-2-lvl4": "KR-11",
+    "country": "South Korea",
+    "country_code": "kr"
+  },
+  "Shanghai": {
+    "state": "Shanghai",
+    "ISO3166-2-lvl4": "CN-SH",
+    "country": "China",
+    "country_code": "cn"
+  },
+  "Shenzhen": {
+    "city": "Shenzhen",
+    "state": "Guangdong",
+    "ISO3166-2-lvl4": "CN-GD",
+    "country": "China",
+    "country_code": "cn"
+  },
+  "Singapore": {
+    "country": "Singapore",
+    "country_code": "sg"
+  },
+  "Sofia": {
+    "city": "Sofia",
+    "ISO3166-2-lvl8": "BG-23",
+    "county": "Sredec",
+    "state_district": "Sofia City",
+    "state": "Sofia-City",
+    "ISO3166-2-lvl4": "BG-22",
+    "country": "Bulgaria",
+    "country_code": "bg"
+  },
+  "Stockholm": {
+    "city": "Stockholm",
+    "municipality": "Stockholm Municipality",
+    "county": "Stockholm County",
+    "ISO3166-2-lvl4": "SE-AB",
+    "postcode": "111 29",
+    "country": "Sweden",
+    "country_code": "se"
+  },
+  "Sydney": {
+    "city": "Sydney",
+    "state": "New South Wales",
+    "ISO3166-2-lvl4": "AU-NSW",
+    "country": "Australia",
+    "country_code": "au"
+  },
+  "Taipei": {
+    "city": "Taipei",
+    "ISO3166-2-lvl4": "TW-TPE",
+    "country": "Taiwan",
+    "country_code": "tw"
+  },
+  "Tashkent": {
+    "city": "Tashkent",
+    "ISO3166-2-lvl4": "UZ-TK",
+    "postcode": "100000",
+    "country": "Uzbekistan",
+    "country_code": "uz"
+  },
+  "Tehran": {
+    "city": "Tehran",
+    "district": "بخش مرکزی شهرستان تهران",
+    "county": "Tehran County",
+    "state": "Tehran Province",
+    "ISO3166-2-lvl4": "IR-23",
+    "country": "Iran",
+    "country_code": "ir"
+  },
+  "Tel Aviv": {
+    "city": "Tel-Aviv",
+    "state_district": "Tel Aviv Subdistrict",
+    "state": "Tel-Aviv District",
+    "ISO3166-2-lvl4": "IL-TA",
+    "country": "Israel",
+    "country_code": "il"
+  },
+  "Tokyo": {
+    "province": "Tokyo",
+    "ISO3166-2-lvl4": "JP-13",
+    "country": "Japan",
+    "country_code": "jp"
+  },
+  "Toronto": {
+    "city": "Toronto",
+    "state_district": "Golden Horseshoe",
+    "state": "Ontario",
+    "ISO3166-2-lvl4": "CA-ON",
+    "country": "Canada",
+    "country_code": "ca"
+  },
+  "Tunis": {
+    "city": "Tunis",
+    "state": "Tunis",
+    "ISO3166-2-lvl4": "TN-11",
+    "country": "Tunisia",
+    "country_code": "tn"
+  },
+  "Vancouver": {
+    "city": "Vancouver",
+    "county": "Metro Vancouver Regional District",
+    "state": "British Columbia",
+    "ISO3166-2-lvl4": "CA-BC",
+    "country": "Canada",
+    "country_code": "ca"
+  },
+  "Vienna": {
+    "city": "Vienna",
+    "ISO3166-2-lvl4": "AT-9",
+    "country": "Austria",
+    "country_code": "at"
+  },
+  "Warsaw": {
+    "administrative": "Warsaw",
+    "state": "Masovian Voivodeship",
+    "ISO3166-2-lvl4": "PL-14",
+    "country": "Poland",
+    "country_code": "pl"
+  },
+  "Washington DC": {
+    "city": "Washington",
+    "state": "District of Columbia",
+    "ISO3166-2-lvl4": "US-DC",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "Wellington": {
+    "city": "Wellington",
+    "county": "Wellington City",
+    "state": "Wellington",
+    "ISO3166-2-lvl4": "NZ-WGN",
+    "postcode": "6011",
+    "country": "New Zealand",
+    "country_code": "nz"
+  },
+  "Zagreb": {
+    "city": "City of Zagreb",
+    "ISO3166-2-lvl4": "HR-21",
+    "country": "Croatia",
+    "country_code": "hr"
+  },
+  "Zurich": {
+    "city": "Zurich",
+    "county": "District Zurich",
+    "state": "Zurich",
+    "ISO3166-2-lvl4": "CH-ZH",
+    "country": "Switzerland",
+    "country_code": "ch"
+  },
+  "Santiago": {
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Santiago Metropolitan Region",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+  },
+  "Athens": {
+    "city": "Athens",
+    "municipality": "Municipality of Athens",
+    "county": "Regional Unit of Central Athens",
+    "state": "Attica",
+    "ISO3166-2-lvl5": "GR-I",
+    "postcode": "105 57",
+    "country": "Greece",
+    "country_code": "gr"
+  },
+  "Panama City": {
+    "city": "Panama City",
+    "county": "Distrito de Panamá",
+    "state": "Panamá Province",
+    "ISO3166-2-lvl4": "PA-8",
+    "postcode": "0843",
+    "country": "Panama",
+    "country_code": "pa"
+  },
+  "Valparaiso": {
+    "state": "Valparaiso Region",
+    "ISO3166-2-lvl4": "CL-VS",
+    "country": "Chile",
+    "country_code": "cl"
+  }
+}

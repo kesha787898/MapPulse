@@ -1,0 +1,1 @@
+BROKEN_IMAGES_IDS = ["place_00091433", "place_00092359", "place_00093680"]

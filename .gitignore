@@ -1,0 +1,13 @@
+/data
+/.venv
+/.idea
+/data_processing/pretraining/cache
+/data_processing/image_rendering/cache
+/tools/cache
+*tb_logs
+*.zip
+*.gz
+*.
+/results
+**/__pycache__/
+*.pyc
