@@ -31,7 +31,10 @@ TRAINING_IMAGES_DIR = DATA_DIR / "training_images"
 TMP_DIR = DATA_DIR / "tmp"
 EMBEDDING_DIR = DATA_DIR / "embeddings"
 
-CUSTOM_MODEL_CHKPT = PROJECT_ROOT / r"pretraining\tb_logs\my_model\version_13\checkpoints\epoch=48-step=3871.ckpt"
 
-MODELS_TRAIN_CHKPTS = PROJECT_ROOT / r"training\tb_logs\my_model"
+MODELS_DIR = DATA_DIR / "models"
+
+CUSTOM_MODEL_CHKPT = MODELS_DIR / r"pretrainin\version_13\checkpoints\epoch=48-step=3871.ckpt"
+
+MODELS_TRAIN_CHKPTS = MODELS_DIR / r"train"
 MODELS_EVAL_OUT = PROJECT_ROOT / r"results"

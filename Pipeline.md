@@ -1,6 +1,16 @@
 ### ⚠️ Prerequisites
 * **Python  Setup:**  `pip install -r requirements.txt`.
 * **Directory Setup:** You must manually create the necessary data folders structure in your project directory.
+* Or you can download them and unzip into /data with those links. Be carefull there are more than 40GB, but onlyy first three is required for the training script:
+1. Tabular data and styles for map rendering :https://mega.nz/file/snBDWLAQ#Ilk7n5ux-qnsdoQ-Ri60XJmtWnq6mB0djtvsYcYmtq0
+2. Embeddings https://mega.nz/file/B6gmlKDK#zykCrdo1X0gF6U3ymACeQdheZesa6iL-a8FuTqqAQHI
+3. Models 
+4. Mbtiles https://mega.nz/file/YiZ31Trb#7Wdk2l_FR1LA0E7cDZ1ENcGi6AnuY3KudYFJAaqvKsM
+4. pretraining_images https://mega.nz/file/1iBQ1bJA#oBjSAoIpsBlkN3yEct7M__Z5mufoU8thpRCy9YMIEoI
+5. training_images https://mega.nz/file/ky5AFYpQ#D5G5oPYkrr36OXfbO6IidHXfBLuPaApNOZCJ_VvPWTY
+6. pbf files
+
+
 * **Path Configuration:** All file paths are managed in `paths.py`. Before running any scripts, ensure these paths are correctly configured to match your local environment.
 
 ---
