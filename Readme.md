@@ -68,3 +68,12 @@ Key findings:
 
 To explore the pipeline:
 Pipeline.md
+
+## 🚀 Project structure
+
+1) data_processing - everything nessesary for image rendering and data split. For some scripts it is neccecary to have a insalled java.
+2) pretraining - pretraining code
+3) training - code for training model
+4) paths.py - configuration of all paths used in project.
+5) tools - some functiions used in the whole project.
+6) 
